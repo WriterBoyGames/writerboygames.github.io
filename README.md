@@ -1,2 +1,2 @@
 # writerboygames.github.io
-This is the place for the blogging of my games...
+This is the place for the blogging of my games.
